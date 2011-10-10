@@ -1,0 +1,5 @@
+Revision history for Task-Cpanel
+
+11.30.0  2010-10-10 Todd Rinaldo
+    - Initial create of module to track cPanel deps.
+
